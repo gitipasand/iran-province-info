@@ -1,0 +1,24 @@
+{
+    "name": "gitipasand/iranprovince",
+    "description": "List of all provinces with cities in Iran",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giti pasand",
+            "email": "mgitipasand@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3|^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gitipasand\\IranProvinceInfo\\": "src/"
+        }
+    },
+    "support": {
+        "issues": "https://github.com/gitipasand/IranProvinceInfo/issues",
+        "source": "https://github.com/gitipasand/IranProvinceInfo"
+
+    }
+}
